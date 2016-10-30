@@ -1,6 +1,8 @@
 freeboard
 ==========
 
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
 **free·board** (noun) *\ˈfrē-ˌbȯrd\*
 
 1. the distance between the waterline and the main deck or weather deck of a ship or between the level of the water and the upper edge of the side of a small boat.
